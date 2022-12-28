@@ -1,0 +1,27 @@
+
+
+db.Employees.insertMany([
+
+    {
+        id:2,
+        Ename : "emp2",
+        City : "Mumbai",
+        Company : "Infosys"
+    
+    },
+    {
+        id:3,
+        Ename : "emp3",
+        City : "Banglore",
+        Company : "Wipro"
+    
+    },
+    {
+        id:4,
+        Ename : "emp4",
+        City : "Hydrabad",
+        Company : "Persitant"
+    
+    }
+
+])
